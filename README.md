@@ -33,4 +33,4 @@
 ## Presenation Day
 [Get the details here!](capstone-presentation.md)
 
-### <a href="https://docs.google.com/document/d/1QNOeCBsw4tMSl-5xp1nF65Z8Ot0FqZBrJYXu_Nsa_Uc/edit?usp=sharing">READ THIS: Capstone Tips by Callan Morrison</a>
+<a href="https://docs.google.com/document/d/1QNOeCBsw4tMSl-5xp1nF65Z8Ot0FqZBrJYXu_Nsa_Uc/edit?usp=sharing">READ THIS: Capstone Tips by Callan Morrison</a>
