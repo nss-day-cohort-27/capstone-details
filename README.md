@@ -1,7 +1,8 @@
 # Capstone Time - Getting Started
 
+1. Your capstone is a single page app created with React. 
 1. Share your idea with instruction team member and get `thumbs-up`
-2. **Proposal** - Use Google Docs and provide a link.
+1. **Proposal** - Use Google Docs and provide a link.
     * **Project Overview**
         * Consider:
            * What problem does your capstone address?
